@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-
+```
 node_modules/                 //well, modules. Just don't touch it
 src/                          //components + resources + styles
 |   ├── api/                  //all about requests and preparations for hooks (url generations) [.ts]
@@ -14,5 +14,4 @@ src/                          //components + resources + styles
 ├── main.tsx
 ├── index.html                //entry point
 ├── index.css                 //base style
-
-
+```
